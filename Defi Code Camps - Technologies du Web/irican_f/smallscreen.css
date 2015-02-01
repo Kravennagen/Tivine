@@ -1,0 +1,379 @@
+body{
+	background-position: center center;
+	background-repeat: no-repeat; 
+	background-attachment: fixed; 
+	background-size: cover; 
+	background-size: 100% 100%;
+	overflow: hidden;
+	margin: 0px;	
+	background: url('./images/fond3.jpg') no-repeat center fixed;
+	background-size: cover;
+}
+
+
+.text {
+	color: white;
+	font-family: Lucida grande;
+	font-size: 40px;
+
+}
+
+#main {
+	background: rgba(0,0,0,0.5);
+	float:left;
+	width: 100%;
+	height: 95%;
+}
+
+#bande_horizontale{ 
+margin: 0px; 
+border: none; 
+width: 100%; 
+height: 8%; 
+background-color: #808080;
+border-bottom: black solid 2px;
+background: linear-gradient( to bottom, 	black,	#3D3D3D);
+} 
+
+#bande_horizontales{ 
+position: relative;
+margin-top: 730px; 
+width: 100%; 
+height: 100px; 
+background-color: #808080;
+border-top: black solid 2px;
+background: linear-gradient( to bottom, #3D3D3D, black);
+text-align: center;
+
+} 
+
+#cadre {
+	position: absolute;
+	height: 55%;
+	width: 30%;
+	border: 5px solid black;
+	border-radius: 5px;
+	display: inline;
+	margin-top: 4%;
+	margin-left: 34%;
+	background: rgba(255,255,255,1);	
+}
+
+#title {
+	height: 50px;
+	width: 100%;
+	text-align: center;
+	background: linear-gradient( to bottom, #3D3D3D, black);
+	border-bottom: 2px solid black;
+	color: white;
+}
+
+#icone {
+	position: fixed;
+	margin-top: -60px;
+	margin-left: 20px;
+}
+
+h1 {
+	position: absolute;
+	text-align: center; 
+	color: white;	
+	margin-left: 800px;
+	margin-top: -90px;
+	display: inline;
+}
+
+#tf1 {
+	position: absolute;
+	margin-left: 5%;
+	min-width: 0%;
+	max-width: 10%;	
+}
+
+#France2 {
+	position: absolute;
+	margin-left: 10%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#France3 {
+	position: absolute;
+	margin-left: 15%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#canalplus {
+	position: absolute;
+	margin-left: 20%;;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#France5 {
+	position: absolute;
+	margin-left: 25%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#M6 {
+	position: absolute;
+	margin-left: 30%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#arte {
+	position: absolute;
+	margin-left: 35%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#d8 {
+	position: absolute;
+	margin-left: 40%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#w9 {
+	position: absolute;
+	margin-left: 45%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#tmc {
+	position: absolute;
+	margin-left: 50%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#nt1 {
+	position: absolute;
+	margin-left: 55%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#nrj12 {
+	position: absolute;
+	margin-left: 60%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#lcp {
+	position: absolute;
+	margin-left: 65%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#France4 {
+	position: absolute;
+	margin-left: 70%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#bfm {
+	position: absolute;
+	margin-left: 75%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#itele {
+	position: absolute;
+	margin-left: 80%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#d17 {
+	position: absolute;
+	margin-left: 85%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#gulli {
+	position: absolute;
+	margin-left: 90%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#Franceo {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 5%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#hd1 {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 10%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#lequipe {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 15%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#ter {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 20%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#numero {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 25%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#rmc {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 30%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#cherie {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 35%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#rtl9 {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 40%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#ab1 {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 45%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#tv5monde {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 50%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#paramount {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 55%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+
+#parispremiere {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 60%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#canalpluscinema {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 65%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#canalplussport {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 70%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#canalplusfamily {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 75%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#canalplusdecale {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 80%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#bein1 {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 85%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#bein2 {
+	position: absolute;
+	margin-top: 37%;
+	margin-left: 90%;
+	min-width: 0%;
+	max-width: 10%;
+}
+
+#txt {
+	margin-top: 10px;
+}
+
+#top {
+	font-family: Lucida grande;
+	height: 87%;
+	width: 99.9%;
+	text-align: center;
+}
+
+
+
+hr {
+	color: black;
+}
+
+#select {
+	color: black;
+	font-family: Lucida grande;
+	font-size: 30px;
+	margin-top: 100px;
+}
